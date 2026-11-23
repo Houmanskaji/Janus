@@ -1,11 +1,15 @@
 # LotusCom Janus+ Lab Release, 10 users
 
-Locked, closed build of Janus+ for lab testing and evaluation, 23 November 2026.
+LotusCom Janus is a cloud-native packet core for mobile operators, private 5G
+and MEC: 4G EPC and 5G Core in one integrated system, built on 3GPP
+Release 18, under one licence. Janus+ is Janus plus IMS: voice over 5G
+(VoNR), voice over 4G (VoLTE) and WiFi Calling (VoWiFi), with SIP and RTP
+media.
 
-Janus+ is Janus plus IMS: one integrated core, 5GC plus 4G EPC plus IMS,
-with SIP and RTP, under one licence. This release is limited to
-10 registered subscribers, 2 eNB and 2 gNB, and expires on 23 November 2027.
-Janus+ is a product of Lotus Communication Systems Inc.
+Locked, closed build of Janus+ for lab testing and evaluation, 23 November
+2026. This release is limited to 10 registered subscribers, 2 eNB and 2 gNB,
+and expires on 23 November 2027. Janus+ is a product of Lotus Communication
+Systems Inc.
 
 ## What is in this package
 
