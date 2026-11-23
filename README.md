@@ -1,10 +1,20 @@
 # LotusCom Janus+ Lab Release, 10 users
 
-LotusCom Janus is a cloud-native packet core for mobile operators, private 5G
-and MEC: 4G EPC and 5G Core in one integrated system, built on 3GPP
-Release 18, under one licence. Janus+ is Janus plus IMS: voice over 5G
-(VoNR), voice over 4G (VoLTE) and WiFi Calling (VoWiFi), with SIP and RTP
-media.
+LotusCom Janus is a cloud-native packet core for mobile operators, private 5G,
+and MEC: 4G EPC and 5G Core in one integrated system, built on 3GPP Release 18,
+under one licence.
+
+LotusCom Janus carries data. LotusCom Janus+ is Janus with IMS added, so it
+also carries voice: VoNR over 5G, VoLTE over 4G, and WiFi Calling over WiFi,
+with SIP and RTP media. This package is the Janus+ lab build.
+
+This build is 3GPP R-18-based and includes Dual Core, the 5GC and 4G EPC,
+network slicing, policy control, WiFi offload through N3IWF and ePDG, IMS
+voice with SIP and RTP, and a NOC console.
+
+The build contains AMF, SMF, UPF, AUSF, UDM, UDR, NRF, PCF, NSSF, and NEF for
+5G; MME, SGW, PGW, and HSS for 4G; N3IWF and ePDG for WiFi offload; P-CSCF,
+I-CSCF, S-CSCF, and MRF for IMS; and the NOC console.
 
 Locked, closed build of Janus+ for lab testing and evaluation, 23 November
 2026. This release is limited to 10 registered subscribers, 2 eNB and 2 gNB,
