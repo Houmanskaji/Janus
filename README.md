@@ -25,9 +25,9 @@ SNOW 3G and ZUC (128-NEA1, 128-NIA1, 128-NEA3, 128-NIA3), TLS for
 the SBI, console login with roles, a file-backed persistent store,
 CHF charging, NEF callback push, IPv6 and ATSSS steering, and IMS
 services (TAS, ENUM, emergency calls, SRVCC, AMR-WB and EVS,
-SRTP). The installation guide in this package is the earlier lab
-guide, reused unchanged; the new ports and features are listed in
-the Janus Real README.
+SRTP). The installation guide in this package is updated to Janus
+Real 1.0.0, with the new ports, the console login, the persistent
+store and the limits.
 
 ## Limits
 
