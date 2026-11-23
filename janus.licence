@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "issuer": "Lotus Communication Systems Inc.",
+    "product": "Janus",
+    "max_subscribers": 10,
+    "max_enb": 2,
+    "max_gnb": 2,
+    "issued": "2026-11-23T08:22:35.678109017Z",
+    "expires": "2027-11-23T08:22:35.678109017Z"
+  },
+  "signature": "uaK1cBofWScPFTBOUo2khj8AWrZSZAVeG6PC4GwHZA8vlRhdlW4rdKb8jQnSVc+pKPghGhtn5mjzRKu6KynICg=="
+}
