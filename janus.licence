@@ -5,8 +5,8 @@
     "max_subscribers": 10,
     "max_enb": 2,
     "max_gnb": 2,
-    "issued": "2026-11-23T08:22:35.678109017Z",
-    "expires": "2027-11-23T08:22:35.678109017Z"
+    "issued": "2026-11-23T09:40:14.231816614Z",
+    "expires": "2027-11-23T09:40:14.231816614Z"
   },
-  "signature": "uaK1cBofWScPFTBOUo2khj8AWrZSZAVeG6PC4GwHZA8vlRhdlW4rdKb8jQnSVc+pKPghGhtn5mjzRKu6KynICg=="
+  "signature": "HkgQYvxtIeI9Q+xwhfgSvK5LZ3X1hwEd0JoKoOwc9wuP+iqMeLfJWDpi2i1JXxgQFy0wAQ9KJCuGgf4A9e9aDA=="
 }
